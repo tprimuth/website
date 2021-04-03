@@ -1869,3 +1869,13 @@ h3.lght {
   color: #000;
   cursor: pointer;
 }
+
+a.explore-link {
+  font-weight: 500;
+  font-size: 10pt;
+  color: #c3c3c3;
+  text-decoration: underline;
+}
+a.explore-link:hover {
+  opacity: 90%;
+}
