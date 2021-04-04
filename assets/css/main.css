@@ -1351,8 +1351,8 @@ h1.title {
   color: #8f8f8f;
 }
 
-.bg-detail-blog {
-  background: url("../img/blog/detail.jpg") center no-repeat;
+.bg-detail-sift {
+  background: url("../img/sift/bg.webp") center no-repeat;
   background-size: cover;
   z-index: -1;
   position: absolute;
@@ -1362,6 +1362,51 @@ h1.title {
   width: 100vw;
   top: 0;
 }
+.bg-detail-mobi {
+  background: url("../img/mobi/bg.webp") center no-repeat;
+  background-size: cover;
+  z-index: -1;
+  position: absolute;
+  text-align: center;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+}
+.bg-detail-altri {
+  background: url("../img/altri/bg.webp") center no-repeat;
+  background-size: cover;
+  z-index: -1;
+  position: absolute;
+  text-align: center;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+}
+.bg-detail-curo {
+  background: url("../img/curo/bg.webp") center no-repeat;
+  background-size: cover;
+  z-index: -1;
+  position: absolute;
+  text-align: center;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+}
+.bg-detail-den{
+  background: url("../img/curo/bg.png") center no-repeat;
+  background-size: cover;
+  z-index: -1;
+  position: absolute;
+  text-align: center;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+}
+
 
 h3.detail-title {
   color: #fff;
@@ -1878,4 +1923,16 @@ a.explore-link {
 }
 a.explore-link:hover {
   opacity: 90%;
+}
+
+h1.detail-title {
+  color: #000;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 100px;
+}
+p.detail-title {
+  color: #000;
+  font-weight: 500;
+  font-size: 30px;
 }
