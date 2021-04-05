@@ -1401,6 +1401,17 @@ h1.title {
   width: 100vw;
   top: 0;
 }
+.bg-detail-gulfstream{
+  background: url("../img/curo/bg.png") center no-repeat;
+  background-size: cover;
+  z-index: -1;
+  position: absolute;
+  text-align: center;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+}
 .bg-detail-den{
   background: url("../img/curo/bg.png") center no-repeat;
   background-size: cover;
@@ -1412,7 +1423,28 @@ h1.title {
   width: 100vw;
   top: 0;
 }
-
+.bg-detail-learn{
+  background: url("../img/learn/bg.webp") center no-repeat;
+  background-size: cover;
+  z-index: -1;
+  position: absolute;
+  text-align: center;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+}
+.bg-detail-mca{
+  background: url("/assets/img/mca/bg.webp") center no-repeat;
+  background-size: cover;
+  z-index: -1;
+  position: absolute;
+  text-align: center;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+}
 
 h3.detail-title {
   color: #fff;
